@@ -1,0 +1,200 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="strArrayTabName" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ジャンル&lt;/string&gt;
+  &lt;string&gt;季節・シーン&lt;/string&gt;
+  &lt;string&gt;ピアノ・キーボ&lt;/string&gt;
+  &lt;string&gt;ギター&lt;/string&gt;
+  &lt;string&gt;ベース&lt;/string&gt;
+  &lt;string&gt;その他&lt;/string&gt;
+  &lt;string&gt;楽曲構成&lt;/string&gt;
+  &lt;string&gt;コード進行&lt;/string&gt;
+  &lt;string&gt;ミックスダウン&lt;/string&gt;
+  &lt;string&gt;予備&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData01" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ポップ&lt;/string&gt;
+  &lt;string&gt;ロック&lt;/string&gt;
+  &lt;string&gt;ロックンロール&lt;/string&gt;
+  &lt;string&gt;ハードロック&lt;/string&gt;
+  &lt;string&gt;ファンク&lt;/string&gt;
+  &lt;string&gt;メタル&lt;/string&gt;
+  &lt;string&gt;パンク&lt;/string&gt;
+  &lt;string&gt;スカ&lt;/string&gt;
+  &lt;string&gt;フォーク&lt;/string&gt;
+  &lt;string&gt;カントリー&lt;/string&gt;
+  &lt;string&gt;レゲエ&lt;/string&gt;
+  &lt;string&gt;ダンス&lt;/string&gt;
+  &lt;string&gt;テクノ&lt;/string&gt;
+  &lt;string&gt;ハウス&lt;/string&gt;
+  &lt;string&gt;エレクトロニカ&lt;/string&gt;
+  &lt;string&gt;ブルース&lt;/string&gt;
+  &lt;string&gt;ジャズ&lt;/string&gt;
+  &lt;string&gt;ソウル&lt;/string&gt;
+  &lt;string&gt;ゴスペル&lt;/string&gt;
+  &lt;string&gt;ディスコ&lt;/string&gt;
+  &lt;string&gt;ヒップホップ&lt;/string&gt;
+  &lt;string&gt;クラシック&lt;/string&gt;
+  &lt;string&gt;イージーリスニング&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData02" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;春&lt;/string&gt;
+  &lt;string&gt;夏&lt;/string&gt;
+  &lt;string&gt;秋&lt;/string&gt;
+  &lt;string&gt;冬&lt;/string&gt;
+  &lt;string&gt;海&lt;/string&gt;
+  &lt;string&gt;ライブ&lt;/string&gt;
+  &lt;string&gt;元気&lt;/string&gt;
+  &lt;string&gt;かわいい&lt;/string&gt;
+  &lt;string&gt;おしゃれ&lt;/string&gt;
+  &lt;string&gt;クラブ&lt;/string&gt;
+  &lt;string&gt;ダーク&lt;/string&gt;
+  &lt;string&gt;社会風刺&lt;/string&gt;
+  &lt;string&gt;バカ&lt;/string&gt;
+  &lt;string&gt;エロ&lt;/string&gt;
+  &lt;string&gt;恋愛&lt;/string&gt;
+  &lt;string&gt;せつない&lt;/string&gt;
+  &lt;string&gt;バラード&lt;/string&gt;
+  &lt;string&gt;代表曲&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData03" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ピアノ&lt;/string&gt;
+  &lt;string&gt;ピアノオブリ&lt;/string&gt;
+  &lt;string&gt;ピアノアルペジオ&lt;/string&gt;
+  &lt;string&gt;ジャズピアノ&lt;/string&gt;
+  &lt;string&gt;アドリブピアノ&lt;/string&gt;
+  &lt;string&gt;8分ピアノ&lt;/string&gt;
+  &lt;string&gt;ホンキートンクピアノ&lt;/string&gt;
+  &lt;string&gt;エレピ&lt;/string&gt;
+  &lt;string&gt;クラビ&lt;/string&gt;
+  &lt;string&gt;オルガン&lt;/string&gt;
+  &lt;string&gt;アルペジエーター&lt;/string&gt;
+  &lt;string&gt;サイン波&lt;/string&gt;
+  &lt;string&gt;シンセパッド&lt;/string&gt;
+  &lt;string&gt;シンセリード&lt;/string&gt;
+  &lt;string&gt;ポリシンセ&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData04" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;エレキ&lt;/string&gt;
+  &lt;string&gt;ワウ&lt;/string&gt;
+  &lt;string&gt;ワーミーペダル&lt;/string&gt;
+  &lt;string&gt;ファンクギター&lt;/string&gt;
+  &lt;string&gt;ブルースギター&lt;/string&gt;
+  &lt;string&gt;スライドギター&lt;/string&gt;
+  &lt;string&gt;アルペジオ&lt;/string&gt;
+  &lt;string&gt;Modアルペジオ&lt;/string&gt;
+  &lt;string&gt;付点8分ディレイ&lt;/string&gt;
+  &lt;string&gt;オクターブ奏法&lt;/string&gt;
+  &lt;string&gt;カッティング&lt;/string&gt;
+  &lt;string&gt;ギターリフ&lt;/string&gt;
+  &lt;string&gt;ギターソロ&lt;/string&gt;
+  &lt;string&gt;アコギ&lt;/string&gt;
+  &lt;string&gt;アコギ定番&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData05" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ウォーキング&lt;/string&gt;
+  &lt;string&gt;シンセベース&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData06" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ストリングス&lt;/string&gt;
+  &lt;string&gt;ストリングス-ロック&lt;/string&gt;
+  &lt;string&gt;ストリングス-室内楽&lt;/string&gt;
+  &lt;string&gt;フルオケ&lt;/string&gt;
+  &lt;string&gt;ハープ&lt;/string&gt;
+  &lt;string&gt;ハーモニカ&lt;/string&gt;
+  &lt;string&gt;ビブラフォン&lt;/string&gt;
+  &lt;string&gt;アコーディオン&lt;/string&gt;
+  &lt;string&gt;ベル&lt;/string&gt;
+  &lt;string&gt;ホルン&lt;/string&gt;
+  &lt;string&gt;メロトロン&lt;/string&gt;
+  &lt;string&gt;ブラス&lt;/string&gt;
+  &lt;string&gt;サックス&lt;/string&gt;
+  &lt;string&gt;クラップ&lt;/string&gt;
+  &lt;string&gt;グロッケン&lt;/string&gt;
+  &lt;string&gt;パーカッション&lt;/string&gt;
+  &lt;string&gt;マリンバ&lt;/string&gt;
+  &lt;string&gt;琴&lt;/string&gt;
+  &lt;string&gt;リズムマシン&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData07" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;シャッフル&lt;/string&gt;
+  &lt;string&gt;2ノリ&lt;/string&gt;
+  &lt;string&gt;3/4&lt;/string&gt;
+  &lt;string&gt;6/8&lt;/string&gt;
+  &lt;string&gt;4ノリ&lt;/string&gt;
+  &lt;string&gt;4つ打ち&lt;/string&gt;
+  &lt;string&gt;8ノリ&lt;/string&gt;
+  &lt;string&gt;8ルート&lt;/string&gt;
+  &lt;string&gt;16ノリ&lt;/string&gt;
+  &lt;string&gt;裏打ち&lt;/string&gt;
+  &lt;string&gt;裏ハット&lt;/string&gt;
+  &lt;string&gt;リズム工夫&lt;/string&gt;
+  &lt;string&gt;メロディ工夫&lt;/string&gt;
+  &lt;string&gt;ハーフテンポ&lt;/string&gt;
+  &lt;string&gt;バックビート&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData08" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;I-V/Ⅶ-Ⅵm-Ⅵm/Ⅴ&lt;/string&gt;
+  &lt;string&gt;Ⅳ-Ⅴ-Ⅲm-Ⅵm&lt;/string&gt;
+  &lt;string&gt;クリシェ&lt;/string&gt;
+  &lt;string&gt;ブルース進行&lt;/string&gt;
+  &lt;string&gt;転調&lt;/string&gt;
+  &lt;string&gt;Key:C&lt;/string&gt;
+  &lt;string&gt;Key:C#/Db&lt;/string&gt;
+  &lt;string&gt;Key:D&lt;/string&gt;
+  &lt;string&gt;Key:D#/Eb&lt;/string&gt;
+  &lt;string&gt;Key:E&lt;/string&gt;
+  &lt;string&gt;Key:F&lt;/string&gt;
+  &lt;string&gt;Key:F#/Gb&lt;/string&gt;
+  &lt;string&gt;Key:G&lt;/string&gt;
+  &lt;string&gt;Key:G#/Ab&lt;/string&gt;
+  &lt;string&gt;Key:A&lt;/string&gt;
+  &lt;string&gt;Key:A#/Bb&lt;/string&gt;
+  &lt;string&gt;Key:B&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData09" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;AutoTune&lt;/string&gt;
+  &lt;string&gt;ラジオボイス&lt;/string&gt;
+  &lt;string&gt;逆再生&lt;/string&gt;
+  &lt;string&gt;フィルタ&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="strArrayData10" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;データ01&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

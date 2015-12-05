@@ -1,0 +1,31 @@
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\bin\Release\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\bin\Release\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\bin\Release\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\iTag.frm01ToolMain.resources
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\iTag.Resources.resources
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\obj\x86\Release\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\bin\Release\iTag.exe.config
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.exe.config
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.application
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.exe
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.pdb
+M:\My Doc(M)\Pg\iTag\iTag\bin\Release\iTag.xml
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\ResolveAssemblyReference.cache
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\Interop.iTunesLib.dll
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.vbproj.ResolveComReference.cache
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.frm01ToolMain.resources
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.frm99AboutBox.resources
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.Resources.resources
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\GenerateResource.read.1.tlog
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\GenerateResource.write.1.tlog
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.application
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.exe
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.xml
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Release\iTag.pdb

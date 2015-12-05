@@ -1,0 +1,113 @@
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\bin\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\bin\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\bin\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\iTag.Resources.resources
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\Local Settings\Application Data\Temporary Projects\iTag\obj\x86\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\bin\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\bin\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\bin\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\iTag.Resources.resources
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\my documents\visual studio 2010\Projects\iTag\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\bin\Debug\iTag.exe.config
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.exe.config
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.Resources.resources
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\Interop.iTunesLib.dll
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\bin\Debug\iTag.exe.config
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\bin\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\bin\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\bin\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\iTag.Resources.resources
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\My Documents\Visual Studio 2010\Projects\iTag\iTag\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.frm99AboutBox.resources
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag\iTag\bin\Debug\iTag.application
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag\iTag\obj\x86\Debug\iTag.application
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.exe.config
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.exe.manifest
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.application
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.exe
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.pdb
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\bin\Debug\iTag.xml
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.frm99AboutBox.resources
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.Resources.resources
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.exe.manifest
+C:\Documents and Settings\Souta Usui.DM3000\デスクトップ\iTag_20101101\iTag_20101101\iTag\obj\x86\Debug\iTag.application
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.exe.config
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\Interop.iTunesLib.dll
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.vbproj.ResolveComReference.cache
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.application
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag_20101101\iTag\bin\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.frm99AboutBox.resources
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.Resources.resources
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag_20101101\iTag\obj\x86\Debug\iTag.application
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.exe.config
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\Interop.iTunesLib.dll
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.vbproj.ResolveComReference.cache
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.application
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.exe
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.pdb
+M:\My Doc(M)\Pg\iTag_20101104\iTag\bin\Debug\iTag.xml
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.frm01ToolMain.resources
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.frm99AboutBox.resources
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.Resources.resources
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.exe.manifest
+M:\My Doc(M)\Pg\iTag_20101104\iTag\obj\x86\Debug\iTag.application
